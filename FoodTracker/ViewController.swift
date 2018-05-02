@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  FoodTracker
+//  FoodTracker test
 //
 //  Created by Doug Foo on 5/2/18.
 //  Copyright © 2018 Doug Foo. All rights reserved.
